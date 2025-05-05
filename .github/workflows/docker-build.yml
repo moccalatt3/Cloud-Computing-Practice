@@ -21,4 +21,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: moccalatt3/elip:latest
+        tags: mocalatt3/elip:latest
